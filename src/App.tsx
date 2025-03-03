@@ -31,7 +31,7 @@ function App() {
 
   return (
     <>
-      <Countdown date={new Date("2024-07-22T17:05")} renderer={renderer} />
+      <Countdown date={new Date("2025-08-21T05:00")} renderer={renderer} />
     </>
   );
 }
